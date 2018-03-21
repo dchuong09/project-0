@@ -1,1 +1,1 @@
-# project-0
+Created basic racing game with HTML, CSS and Javascript
